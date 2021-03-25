@@ -7,5 +7,4 @@ A:排除以下任何一個條件</br>
 3.no preemption
 4.circular wait 
 
-'''
-'''
+
